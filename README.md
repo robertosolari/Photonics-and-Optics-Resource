@@ -13,3 +13,5 @@
  - [Evolving and 3D Printing New Nanoscale Optical Devices](https://www.caltech.edu/about/news/evolving-and-3d-printing-new-nanoscale-optical-devices)
  - [Machine-learning system based on light could yield more powerful, efficient large language models](https://news.mit.edu/2023/system-could-yield-more-powerful-efficient-llms-0822)
  - [System combines light and electrons to unlock faster, greener computing](https://news.mit.edu/2023/system-combines-light-electrons-unlock-faster-greener-computing-0911)
+ - [Soft optical fibers block pain while moving and stretching with the body](https://news.mit.edu/2023/soft-optical-fibers-nerve-related-pain-1019)
+ - [Infleqtion Acquires Silicon Photonics Leaders SiNoptiq Inc. And Morton Photonics Inc.](https://thequantuminsider.com/2024/01/29/infleqtion-acquires-silicon-photonics-leaders-sinoptiq-inc-and-morton-photonics-inc/)
