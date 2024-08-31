@@ -15,3 +15,6 @@
  - [System combines light and electrons to unlock faster, greener computing](https://news.mit.edu/2023/system-combines-light-electrons-unlock-faster-greener-computing-0911)
  - [Soft optical fibers block pain while moving and stretching with the body](https://news.mit.edu/2023/soft-optical-fibers-nerve-related-pain-1019)
  - [Infleqtion Acquires Silicon Photonics Leaders SiNoptiq Inc. And Morton Photonics Inc.](https://thequantuminsider.com/2024/01/29/infleqtion-acquires-silicon-photonics-leaders-sinoptiq-inc-and-morton-photonics-inc/)
+ - [Nature-Inspired Nanophotonics: Butterfly Eureka! Moments | Robert Magnusson | TEDxUTA
+](https://www.youtube.com/watch?v=gEY9z2dgLzU)
+ - [We Are in a Photonics Revolution](https://www.youtube.com/watch?v=vYxjS0bGuCM)
